@@ -1,0 +1,5 @@
+module strange
+typeinfo appstrange.qmltypes
+prefer :/strange/
+Main 1.0 Main.qml
+

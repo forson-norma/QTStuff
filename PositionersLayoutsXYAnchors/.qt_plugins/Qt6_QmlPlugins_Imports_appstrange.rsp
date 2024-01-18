@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/norma/OneDrive/Documents/QTQMLProjects/strange
+-cmake-output
+-output-file
+C:/Users/norma/OneDrive/Documents/QTQMLProjects/PositionersLayoutsXYAnchors/.qt_plugins/Qt6_QmlPlugins_Imports_appstrange.cmake
+-importPath
+C:/Users/norma/OneDrive/Documents/QTQMLProjects/PositionersLayoutsXYAnchors/strange
+-importPath
+C:/Users/norma/OneDrive/Documents/QTQMLProjects/PositionersLayoutsXYAnchors
+-importPath
+C:/Qt/6.4.3/mingw_64/./qml
+-qrcFiles
+C:/Users/norma/OneDrive/Documents/QTQMLProjects/PositionersLayoutsXYAnchors/.rcc/qmake_strange.qrc
+C:/Users/norma/OneDrive/Documents/QTQMLProjects/PositionersLayoutsXYAnchors/.rcc/appstrange_raw_qml_0.qrc
